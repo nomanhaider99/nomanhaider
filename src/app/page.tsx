@@ -2,7 +2,6 @@ import Box from "@/components/ui/box";
 import MenuBar from "@/components/ui/menu";
 import Shadow from "@/components/ui/shadow";
 import Tabs from "@/components/ui/tabs";
-import Image from "next/image";
 
 export default function Home() {
   return (
